@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop">
+      <div class="div">
+        <p class="text-wrapper">
+          Suply Chain Optimization to Logistic Business
+        </p>
+        <div class="overlap">
+          <div class="text-wrapper-2">Nama produk</div>
+          <div class="text-wrapper-3">Why Spatial Analysis ?</div>
+          <p class="p">
+            it’s not only where, but also about why we make this decision
+          </p>
+          <div class="hero">
+            <div class="hero-image"></div>
+            <div class="frame"></div>
+          </div>
+          <div class="frame-2"></div>
+          <button class="button">
+            <div class="text-wrapper-4">Get Started</div>
+          </button>
+        </div>
+        <p class="outcome-centered-pro">
+          Suply Chain Optimization to ensure optimal operation of the production
+          and distribution supply chain.
+        </p>
+        <p class="text-wrapper-5">What Is Your Industry Sector ?</p>
+        <p class="outcome-centered-pro-2">
+          if you want to reduce your business loss. know 80% of data collected
+          by businesses has a location component, but only 10% is used to drive
+          decision-making. a business model that will be built by you with
+          excellent data visualization so that you can also analyze and study
+          competitors so that they are able to create their own value for their
+          company. With Location Intelligence, those of you who are starting a
+          business can learn customer activities and habits so as to create
+          improvement personas for sales, marketing and customer service.
+        </p>
+        <div class="text-wrapper-6">Our Features :</div>
+        <p class="text-wrapper-7">What are They Saying :</p>
+        <div class="overlap-group">
+          <div class="text-wrapper-8">Partner :</div>
+          <div class="features-section">
+            <div class="card">
+              <div class="frame-3">
+                <div class="group">
+                  <img class="chating-circle" src="img/image.png" />
+                </div>
+                <div class="text-wrapper-9">Feature</div>
+                <p class="text-wrapper-10">
+                  Tutorial meditasi dengan panduan yang mudah diikuti dimanapun
+                  kamu berada
+                </p>
+              </div>
+            </div>
+            <div class="overlap-group-2">
+              <div class="frame-wrapper">
+                <div class="frame-3">
+                  <div class="group">
+                    <img class="chating-circle" src="img/chating-circle.png" />
+                  </div>
+                  <div class="text-wrapper-9">Feature</div>
+                  <p class="text-wrapper-10">
+                    Tutorial meditasi dengan panduan yang mudah diikuti
+                    dimanapun kamu berada
+                  </p>
+                </div>
+              </div>
+              <div class="card-2"></div>
+            </div>
+            <div class="text-wrapper-11">Features</div>
+            <div class="business">
+              Business Intelligence and<br />Location Intelligence
+            </div>
+            <div class="text-wrapper-12">Thematic Maping</div>
+            <div class="text-wrapper-13">Commercial Company</div>
+            <p class="gg-kweni-no">
+              gg. Kweni no 14G, Karangwuni, Mlati, <br />Sleman, Yogyakarta<br />55283
+            </p>
+            <div class="text-wrapper-14">Geomarketing</div>
+            <div class="text-wrapper-15">Market Research</div>
+            <div class="text-wrapper-16">Marketing and Advertsing</div>
+            <div class="overlap-2">
+              <div class="text-wrapper-17">Urban Planing</div>
+              <div class="text-wrapper-18">Logistic</div>
+            </div>
+            <div class="overlap-3">
+              <div class="text-wrapper-19">Request Demo</div>
+              <div class="text-wrapper-20">Demo</div>
+            </div>
+            <div class="overlap-4">
+              <div class="text-wrapper-21">Career’s</div>
+              <div class="text-wrapper-22">Partnership</div>
+              <div class="text-wrapper-23">News</div>
+              <div class="frame-4">
+                <div class="text-wrapper-24">About</div>
+                <div class="text-wrapper-25">Contact</div>
+              </div>
+              <div class="text-wrapper-26">Investor’s</div>
+              <div class="text-wrapper-20">Company</div>
+            </div>
+            <div class="text-wrapper-27">Agriculture</div>
+            <div class="text-wrapper-28">Statistic and sensus</div>
+            <div class="text-wrapper-29">Use Case</div>
+            <div class="div-wrapper">
+              <div class="frame-3">
+                <div class="group">
+                  <div class="group-wrapper">
+                    <div class="group-2">
+                      <div class="ellipse"></div>
+                      <div class="ellipse-2"></div>
+                      <div class="ellipse-3"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="text-wrapper-9">Feature</div>
+                <p class="text-wrapper-10">
+                  Tutorial meditasi dengan panduan yang mudah diikuti dimanapun
+                  kamu berada
+                </p>
+              </div>
+            </div>
+          </div>
+          <img class="image" src="img/image-3.png" />
+          <img class="vector" src="img/vector.svg" />
+          <button class="button-2">
+            <div class="text-wrapper-4">Get Started</div>
+          </button>
+        </div>
+        <div class="overlap-5">
+          <div class="group-3">
+            <img
+              class="element-construction"
+              src="img/3605334-construction-digger-excavation-excavator-industry-icon-1.svg"
+            />
+            <p class="outcome-centered-pro-3">
+              Architecture, Engineering &amp; Construction Market
+            </p>
+          </div>
+          <div class="rectangle">
+            <img
+              class="element-business"
+              src="img/1564501-business-chart-dashboard-graph-icon-1-2.png"
+            />
+          </div>
+        </div>
+        <div class="overlap-6">
+          <div class="rectangle-2">
+            <div class="outcome-centered-pro-4">Commercial Companies</div>
+            <img
+              class="element-business"
+              src="img/1564501-business-chart-dashboard-graph-icon-1-2.svg"
+            />
+          </div>
+          <img
+            class="element-office"
+            src="img/7217372-office-business-work-workplace-home-icon-1.svg"
+          />
+        </div>
+        <div class="overlap-7">
+          <div class="rectangle-3">
+            <div class="outcome-centered-pro-4">National Geospatial Agency</div>
+            <img
+              class="element-business"
+              src="img/1564501-business-chart-dashboard-graph-icon-1.svg"
+            />
+          </div>
+          <img
+            class="element-satellite"
+            src="img/6622944-satellite-signal-space-icon-1.png"
+          />
+        </div>
+        <div class="overlap-8">
+          <div class="rectangle-3">
+            <div class="outcome-centered-pro-4">Thematic Maping</div>
+            <img class="element-business" src="img/image.svg" />
+          </div>
+          <img
+            class="element-earth-europe"
+            src="img/2633179-earth-europe-globe-planet-world-icon-2.png"
+          />
+        </div>
+        <div class="overlap-9">
+          <div class="rectangle-3">
+            <div class="outcome-centered-pro-4">Professional User Domain</div>
+            <img
+              class="element-business"
+              src="img/1564501-business-chart-dashboard-graph-icon-1-3.svg"
+            />
+          </div>
+          <img
+            class="element-location"
+            src="img/2672763-location-user-app-object-essential-icon-1.png"
+          />
+        </div>
+        <div class="overlap-10">
+          <div class="rectangle-3">
+            <p class="outcome-centered-pro-4">
+              Location Intelligence and Business Analysis
+            </p>
+            <img
+              class="element-business"
+              src="img/1564501-business-chart-dashboard-graph-icon-1-4.svg"
+            />
+          </div>
+          <img
+            class="img"
+            src="img/1564501-business-chart-dashboard-graph-icon-1.png"
+          />
+        </div>
+        <div class="overlap-11">
+          <div class="group-4">
+            <div class="ellipse-4"></div>
+            <div class="ellipse-5"></div>
+            <div class="ellipse-6"></div>
+            <div class="ellipse-7"></div>
+            <div class="ellipse-8"></div>
+          </div>
+          <img class="picture" src="img/picture1-1.png" />
+        </div>
+        <div class="navbar">
+          <div class="navbar-wrapper">
+            <div class="navbar-2">
+              <div class="home">
+                <img class="line" src="img/line-1.svg" />
+                <div class="text-wrapper-30">Home</div>
+              </div>
+              <div class="features">Industry</div>
+              <div class="features">Use Case</div>
+              <div class="text-wrapper-31">Pricing</div>
+              <div class="blog">Company</div>
+            </div>
+          </div>
+          <div class="buttons-wrapper">
+            <div class="buttons">
+              <button class="get-started-wrapper">
+                <div class="get-started">Log in</div>
+              </button>
+              <button class="button-3">
+                <div class="text-wrapper-32">Get Started</div>
+              </button>
+            </div>
+          </div>
+        </div>
+        <img
+          class="element-tweet"
+          src="img/5279123-tweet-twitter-twitter-logo-icon-1.svg"
+        />
+        <img
+          class="element-github-logo"
+          src="img/1964417-github-logo-media-social-icon-1.svg"
+        />
+        <img
+          class="element-play-video"
+          src="img/5279120-play-video-youtube-youtuble-logo-icon-1.svg"
+        />
+        <img
+          class="element-linkedin"
+          src="img/1964405-linkedin-logo-media-social-icon-1.svg"
+        />
+        <img
+          class="element-fb-facebook"
+          src="img/5305154-fb-facebook-facebook-logo-icon-1-2.svg"
+        />
+        <img
+          class="element-fb-facebook-2"
+          src="img/5305154-fb-facebook-facebook-logo-icon-1.svg"
+        />
+        <img
+          class="element-camera"
+          src="img/5279112-camera-instagram-social-media-instagram-logo-icon-1.svg"
+        />
+        <button class="button-4">
+          <div class="text-wrapper-4">Get Started</div>
+        </button>
+        <p class="text-wrapper-33">
+          we are a spatial analysis platform that functions to map the potential
+          of cloud-based and spatial big data businesses so that business
+          practitioners are able to make accurate business decisions.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
